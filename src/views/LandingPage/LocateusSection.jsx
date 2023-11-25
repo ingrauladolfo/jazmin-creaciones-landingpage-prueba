@@ -6,7 +6,7 @@ import {
   LocateUsHeaderText,
   LocateUsTextP,
   LocateUsLogoAndText,
-} from "../../components/LandingPage/LocateUsSection/styles";
+} from "../../components/LandingPage/LocateusSection/styles";
 const LocateUsSection = () => {
   return (
     <LocateUsContainer id="locateus">
